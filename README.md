@@ -2,5 +2,4 @@
 Furniture online shop
 
 ## Deploy
-https://elian-cheng.github.io/
-funiro-furniture-shop/
+https://elian-cheng.github.io/funiro-furniture-shop/
